@@ -1,5 +1,7 @@
 # 💫 About Me:
-test
+I’m a self-motivated, creative, and ambitious software developer with a passion for building modern, user-friendly web applications.
+
+🔍 Currently focusing on clean architecture, responsive design, and integrating AI/ML models into web apps.
 
 
 ## 🌐 Socials:
