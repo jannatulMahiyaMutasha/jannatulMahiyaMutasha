@@ -8,6 +8,14 @@ I’m a self-motivated, creative, and ambitious software developer with a passio
 
 🔍 Currently focusing on clean architecture, responsive design, and integrating AI/ML models into web apps.
 
+## 🚀 What I'm Doing Now
+
+- 🔭 I’m currently working on a **Medical Appointment Booking App** using React.
+- 🌱 I’m exploring **Next.js** and **Tailwind CSS**.
+- 🧪 Doing **MSc Thesis** on Thyroid Disease Detection using Machine Learning.
+- 👨‍💻 Actively learning **API integration** and **deployment strategies**.
+- 📝 Writing technical content and documenting projects on GitHub.
+
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/test) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/test) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/test) 
