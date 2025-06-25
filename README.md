@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://your-banner-image-link.com/gotchas-git-github-banner-1.png" alt="Banner" style="width:100%; border-radius: 10px;"/>
+<img src="https://github.com/jannatulMahiyaMutasha/jannatulMahiyaMutasha/blob/main/gotchas-git-github-banner-1.png" alt="Banner" style="width:100%; border-radius: 10px;"/>
 
 <h1 align="center">Hi, I'm Jannatul Mahiya Mutasha 👋</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
